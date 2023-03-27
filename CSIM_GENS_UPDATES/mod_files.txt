@@ -47,6 +47,8 @@ add graphics_little_touches/disk/bb2/evClassicTails.arl
 ;; Stage Data
 add stage_tweaks/disk/bb/#ssz100.ar.00
 add stage_tweaks/disk/bb/#ssz100.arl
+add stage_tweaks/disk/bb2/#pam000.ar.00
+add stage_tweaks/disk/bb2/#pam000.arl
 
 ;; Stage Data Without Little Tweaks Override
 add graphics_little_touches_none/disk/bb/#ssz100.ar.00
