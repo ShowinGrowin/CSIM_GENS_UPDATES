@@ -25,11 +25,14 @@ add graphics_marza/disk/bb2/ev051.ar.01
 add graphics_marza/disk/bb2/ev051.ar.02
 add graphics_marza/disk/bb2/ev051.arl
 
+add graphics_marza/disk/bb/+bms.ar.00
+add graphics_marza/disk/bb/+bms.ar.001
+add graphics_marza/disk/bb/+bms.ar.002
+add graphics_marza/disk/bb/+bms.arl
+
 ;; Disabled Marza Classic Sonic
-add graphics_null/disk/bb3/#SonicClassicOriginalAssets.ar.00
-add graphics_null/disk/bb3/#SonicClassicOriginalAssets.arl
-add graphics_null/disk/bb3/#SonicClassicOriginalAssets2.ar.00
-add graphics_null/disk/bb3/#SonicClassicOriginalAssets2.arl
+add graphics_null/disk/bb3/+SonicClassic.ar.00
+add graphics_null/disk/bb3/+SonicClassic.ar.00
 
 add graphics_little_touches/disk/bb2/ev410.ar.00
 add graphics_little_touches/disk/bb2/ev410.ar.01
@@ -49,6 +52,9 @@ add stage_tweaks/disk/bb/#ssz100.ar.00
 add stage_tweaks/disk/bb/#ssz100.arl
 add stage_tweaks/disk/bb2/#pam000.ar.00
 add stage_tweaks/disk/bb2/#pam000.arl
+
+add stage_tweaks_none/disk/bb/+ssz_cmn.ar.00
+add stage_tweaks_none/disk/bb/+ssz_cmn.arl
 
 ;; Stage Data Without Little Tweaks Override
 add graphics_little_touches_none/disk/bb/#ssz100.ar.00
